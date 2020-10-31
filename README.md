@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I’m Eli 👋
+
+### Currently Front-end Developer, but learning a lot of new things. <br /> More about me [at my website](https://jediyozh.com/en)
 
 <!--
 **jediyozh/jediyozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
